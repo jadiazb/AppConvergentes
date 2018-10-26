@@ -1,0 +1,14 @@
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/controller/UserController.java
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/model/ElementEntity.java
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/exception/SignInResponse.java
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/App.java
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/service/ReportConditionsService.java
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/controller/SignInController.java
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/service/UserService.java
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/model/ReportConditionsEntity.java
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/service/ElementService.java
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/model/UserEntity.java
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/controller/ReportConditionsController.java
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/service/SignInService.java
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/model/SignInEntity.java
+/Users/javieralejandrodiaz/eclipse-workspace/sg-sst-api/src/main/java/co/sg_sst/jpa/controller/ElementController.java
